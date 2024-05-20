@@ -1,4 +1,5 @@
 # new Project
 
 learning the Git.
-By - Abhishek Thakur
+By - Abhishek Thakur.
+Thanks
